@@ -21,6 +21,6 @@ Welcome to the Cotton Weave Product Page! This project showcases a stylish produ
 
 ## Getting Started
 
-To view and interact with this project locally: http://cotton-weave.com/
+To view and interact with this project locally: https://srv2k21codex.github.io/cotton-weave/
 
 
